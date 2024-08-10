@@ -45,10 +45,10 @@
 <p>To view and run the notebook:</p>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/mazimum86/DecisionTree.git</code></pre>
+        <pre><code>git clone https://github.com/mazimum86/DecisionTreeClassifier.git</code></pre>
     </li>
     <li>Navigate to the repository directory:
-        <pre><code>cd DecisionTree</code></pre>
+        <pre><code>cd DecisionTreeClassifier</code></pre>
     </li>
     <li>Open the Jupyter Notebook:
         <pre><code>jupyter notebook Decision_Tree_Notebook.ipynb</code></pre>
